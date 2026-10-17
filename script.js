@@ -3,14 +3,15 @@
 // Để trống "" nếu bạn chưa muốn hiển thị link đó.
 
 const LINKS = {
-  tiktok: "",
+  tiktok: "https://www.tiktok.com/@han.121110",
   facebook: "https://www.facebook.com/pn.han.121110",
   instagram: "",
   threads: "",
   youtube: "",
   zalo: "",
   discord: "",
-  locket: ""
+  locket: "",
+  pinterest: 
 };
 
 const toast = document.getElementById("toast");
