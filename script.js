@@ -11,7 +11,7 @@ const LINKS = {
   zalo: "",
   discord: "",
   locket: "",
-  pinterest: 
+  pinterest: ""
 };
 
 const toast = document.getElementById("toast");
